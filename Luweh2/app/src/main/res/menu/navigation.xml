@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/navigation_calculate"
+        android:icon="@drawable/ic_keyboard_black_24dp"
+        android:title="Calculate" />
+
+    <item
+        android:id="@+id/navigation_dss"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:title="DSS" />
+
+    <item
+        android:id="@+id/navigation_record"
+        android:icon="@drawable/ic_assignment_black_24dp"
+        android:title="Record" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_face_black_24dp"
+        android:title="Profile" />
+
+</menu>
