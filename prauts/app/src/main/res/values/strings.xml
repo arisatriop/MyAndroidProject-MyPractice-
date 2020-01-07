@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">17523066</string>
+    <string name="donut">Donut</string>
+    <string name="rp_2000">Rp. 2000</string>
+    <string name="froyo">Froyo</string>
+    <string name="ice_cream">Ice cream</string>
+    <string name="rp_5000">Rp. 5000</string>
+    <string name="rp_4000">Rp. 4000</string>
+    <string name="menu_makanan">Menu Makanan</string>
+
+    <string-array name="planets_array">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Big</item>
+    </string-array>
+
+</resources>
+
+
